@@ -4,4 +4,7 @@
     <string name="tab_1">Home</string>
     <string name="tab_2">Order</string>
     <string name="tab_3">Profile</string>
+    <string name="title_activity_login">Login</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
