@@ -6,6 +6,15 @@
     tools:context=".MainActivity"
     >
 
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/cart"
+        android:layout_above="@id/tabLayout"
+        android:layout_alignEnd="@id/tabLayout"
+        android:layout_margin="15dp"
+        android:contentDescription="@string/cart" />
+
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
@@ -18,6 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:icon="@drawable/order_food_svgrepo_com"
+            android:background="@color/black"
             />
 
 

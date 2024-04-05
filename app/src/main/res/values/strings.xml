@@ -5,6 +5,8 @@
     <string name="tab_2">Order</string>
     <string name="tab_3">Profile</string>
     <string name="title_activity_login">Login</string>
+    <string name="location_logo">Location LOGO</string>
+    <string name="cart">Cart Logo</string>
     <string-array name="array_profile">
         <item>Previous Order\'s</item>
         <item>Transaction\'s</item>
